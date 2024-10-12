@@ -5,4 +5,6 @@ TODO List app with react
 <br/>
 <a href="https://todoapp-nine-iota.vercel.app/">Try it here</a>
 
+Feel free to customize it further based on your experience! 😊
+
 
